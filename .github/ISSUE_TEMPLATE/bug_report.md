@@ -37,4 +37,11 @@ If applicable, add screenshots to help explain your problem.
  - Target framework [e.g. netstandard, net452]
  - Version [e.g. 1.4.50]
  
-Add any other context about the problem here.
+Add any other context about the problem here:
+______________________________________________________
+Method UploadVideoAsync dont work
+Screenshots:
+http://uploadme.ru/images/2018/10/22/Screenshot_2.jpg
+http://uploadme.ru/images/2018/10/22/Screenshot_3.jpg
+http://uploadme.ru/images/2018/10/22/Screenshot_4.jpg
+______________________________________________________
